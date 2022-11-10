@@ -28,3 +28,5 @@ lab you will help TAs to take attendance by automation in python based on Zoom r
 - Student is Late if he/she was late 20 minutes.
 
 - Student is Absent if he/she was late more than 20 minutes.
+
+pull request link : https://github.com/Noor696/automation/pull/2
